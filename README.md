@@ -1,4 +1,4 @@
-# Sri Vidyadhama Residential School & Coaching Academy Website
+# Sri Nehru Lower Primary Convent School Website
 
 A responsive website with a built-in Principal CMS designed for schools aiming for excellence in Navodaya Vidyalaya (JNV), Morarji Desai Residential School, and board entrance exams.
 
